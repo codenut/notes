@@ -1,7 +1,7 @@
 # Design Document Guidelines
 
 ## What is a design document
-A design document is a document that describes a technical problem and the provides the solution on how to solve it. A good design document must be written for S/M/L/XL projects. A good design document is described [here](https://w.amazon.com/bin/view/AWS21/EngineeringProcess/HowToWriteADesignDocument/#HWhatisagooddesigndocument3F). A design document should not have more than six pages of Word documents.
+A design document is a document that describes a technical problem and provides a solution on how to solve it. A good design document must be written for S/M/L/XL projects. A good design document is described [here](https://w.amazon.com/bin/view/AWS21/EngineeringProcess/HowToWriteADesignDocument/#HWhatisagooddesigndocument3F). A design document should not have more than six pages of Word documents.
 
 ## How to write
 
